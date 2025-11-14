@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+
+# User-specific settings
+*.user
+*.suo
+
+# MacOS / Linux system files
+.DS_Store
+
+# Node modules (if you ever have frontend stuff)
+node_modules/
+
+# Publish folder
+publish/
